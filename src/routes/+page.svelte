@@ -8,7 +8,7 @@
             <div class='container info-container'>
                 <div class='info-text'>
                     <h1>
-                        <p class='animate-text-1'>Сайт будущих прогшраммистов. </p>
+                        <p class='animate-text-1'>Сайт будущих программистов. </p>
                         <p class='text-2'>Вадима, Александры и Даниила.</p>
                     </h1>
                 </div>
